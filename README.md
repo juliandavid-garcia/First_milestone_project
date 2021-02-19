@@ -43,3 +43,9 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+#features
+ i have some problems with the navigation bar. i have tried doing it myself but when i get  to make the dropdown menu it does not work. 
+ i finally made the menudrop work. it needed to  add the query link from boostrap to the header
+
+ ##credit.
+  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
