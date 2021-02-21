@@ -47,6 +47,14 @@ Happy coding!
  i have some problems with the navigation bar. i have tried doing it myself but when i get  to make the dropdown menu it does not work. 
  i finally made the menudrop work. it needed to  add the query link from boostrap to the header
  i manage to make the heading responsibe
+ hero image and buttons were added together wit it icons
+  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
+  these were buttons taken from since i could not make ming worrked, i realised it was the link from boostrap which was missinng
 
  ##credit.
   https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
+  these were buttons taken from since i could not make ming worrked, i realised it was the link from boostrap which was missinng
+
+
+
+
