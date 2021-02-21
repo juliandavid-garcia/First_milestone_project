@@ -97,3 +97,16 @@ padding-bottom: 10px;
     max-width: 15%;
 }
 }
+/*------Heroimage*/
+#hero-image{
+    background: url("../images/heroimage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+@media screen and (max-width: 576px){
+#hero-image {
+    height:300px;
+}
+}
