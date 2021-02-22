@@ -124,7 +124,22 @@ padding-bottom: 10px;
     height:360px;
 }
 }
+/*-----skills*/
+#hero-image-skills{
+    background: url("../images/software_developer.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    filter: blur(20px);
+  -webkit-filter: blur(20px);
+}
 
+@media screen and (max-width: 576px){
+#hero-image-skills{
+    height:360px;
+}
+}
 /*------Buttons menu indext/contact/skills*/
 #buttons .col-12{
     height: 100px;
@@ -167,6 +182,14 @@ display: block;
     margin:10px 10px 10px 10px;
     padding-top: 10px;
 background-color:rgba(65, 112, 69, 0.1);
+
+}
+#hero-image-skills .jumbotron{
+    height:300px;
+    margin:30px 10px 10px 10px;
+    padding-top: 10px;
+    align-content: center;
+    background-color:rgba(7, 7, 7, 0.3);
 }
 
     
@@ -191,7 +214,7 @@ margin-bottom: 30px;
 text-align:justify;
 display: block;
 }
-
+/*footer*/
 footer{
      background-color:rgba(7, 7, 7, 0.9);
      height: 130px;
