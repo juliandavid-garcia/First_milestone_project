@@ -125,6 +125,10 @@ padding-bottom: 10px;
 }
 }
 /*-----skills*/
+
+.alert-success{
+background-color: #fafafa;
+}
 #hero-image-skills{
     background: url("../images/software_developer.jpg");
     background-position: center;
@@ -184,14 +188,12 @@ display: block;
 background-color:rgba(65, 112, 69, 0.1);
 
 }
-#hero-image-skills .jumbotron{
-    height:300px;
-    margin:30px 10px 10px 10px;
-    padding-top: 10px;
-    align-content: center;
-    background-color:rgba(7, 7, 7, 0.3);
-}
+#out-image .jumbotron{
+background-image: url("../images/blured1.jpg");
 
+
+
+}
     
 #paragraph-2 h4 i{
 display: block;
@@ -238,4 +240,7 @@ font-size: 40px;
     padding-right: 27px;
     padding-top: 30px;
     padding-bottom: 20px;
+}
+{
+
 }
