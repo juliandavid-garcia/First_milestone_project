@@ -181,6 +181,8 @@ display: block;
     margin:10px 10px 10px 10px;
     padding-top: 10px;
 background-color:rgba(27, 27, 29, 0.1);
+position: relative;
+
 
 }
 
@@ -207,11 +209,16 @@ text-align:justify;
 display: block;
 }
 /*footer*/
+     
 footer{
-     background-color:rgba(7, 7, 7, 0.9);
+        position:none;
+        background:rgba(7, 7, 7, 0.9);
      height: 130px;
      width:100%;
      margin:0;
+    }
+    .social-media {
+        background-color:rgba(7, 7, 7, 0.9);
     }
 .social-media a {
     color:#fafafa;
@@ -267,10 +274,22 @@ background-color:#818da6;
 }
 .jumbotron-header, .alert-heading{
 font-family: "Oswald", sans-serif;
+margin-top: 20px;
+margin-bottom: 30px;
+
 }
 h4 i{
     font-size: 60px;
+    margin-top: 20px;
+    color: #5c5a5a;
+}
+.alert-success hr {
+    border-top-color:#838080;
 }
 .alert-success {
     border-color:#838080;
+    color: #838080;
+}
+hr{
+    color: #838080;
 }
