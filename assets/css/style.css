@@ -334,7 +334,7 @@ hr{
 }
 /*----Portfolio-----*/
 .coffelover{
-     background: url("../images/coffe-lovers.png");
+     background: url("../images/coffe-lovers.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -347,18 +347,18 @@ hr{
 
 }
 .love-running{
-background: url("../images/love_running.png");
+background: url("../images/love_running.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-     height: 100vh;
+     height: 95vh;
      width: 100vw;
     display: block;
      margin-bottom: 20px;
    
 }
 .resume{
-background: url("../images/resume.png");
+background: url("../images/resume.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -386,4 +386,58 @@ background: url("../images/whiskey.jpg");
     margin-bottom: 20px;
     
 }
+#apple-delight, #infuse-bar, #margarita, #pineapple, 
+#whiskey-sour{
+    height:200px;
+    margin-bottom: 20px;
+}
+}
+
+#apple-delight{
+    background: url("../images/appledelight.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: small;
+      height: 100vh;
+     width: 100vw;
+    display: block;
+}
+#infuse-bar{
+background: url("../images/infuse bar west.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      height: 100vh;
+     width: 100vw;
+    display: block;
+}
+#margarita{
+background: url("../images/Margarita.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      height: 100vh;
+     width: 100vw;
+    display: block;
+    overflow: hidden;
+}
+#pineapple{
+    background: url("../images/pineapple.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      height: 100vh;
+     width: 100vw;
+    display: block;
+}
+
+
+#whiskey-sour{
+    background: url("../images/whiskey sour.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 100vh;
+     width: 100vw;
 }
