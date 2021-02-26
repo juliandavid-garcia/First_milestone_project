@@ -11,10 +11,10 @@
 <title>Julian portfolio</title>
 </head>
 <body>
+    <div class="container-fluid #page-container">
+       <div id="content-wrap">
     <header>
-        
 
-<div class="container-fluid">
 <div class="row no-gutters d-none d-sm-block">
 <nav id="menubar" class="col">
      <ul>
@@ -41,7 +41,7 @@
 </div>
       </nav>
        </div> 
-     </div>
+    
       <div id="name">
       <a class="col-sm-2" href="index.html">
             <h3>Julian Garcia</h3>
@@ -52,33 +52,35 @@
 
     </header>
     
- <article id="article" class="container-fluid no-gutters">
-
-   <section id="skills">
+ <article>
+ <div id="contact" class="container-fluid no-gutters">
+   <section id="form">
          <div class="row no-gutters container-fluid"> 
              <div class="col-12 no-gutters">
         <div class="jumbotron text-center">
  <h2 class="jumbotron-header">Software Development</h2> 
  <div class="alert alert-success" role="alert">
   <h4 class="alert-heading "><i class="fas fa-envelope"></i></h4>
-  <form class="signup-form" method="post" action="https://formdump.codeinstitute.net/">
+  <form  method="post" action="https://www.julian.com/">
            <h2>Message me as you have a project in mind!</h2>
            <fielset>
-               <label for="fname" class="block-label">First Name</label>
-           <input class="text-input" type="text" name="first_name" id="fname" required>
-            <label for="lname" class="block-label">Last Name</label>
-           <input class="text-input" type="text" name="last_name" id="lname" required>
-           <label for="email" class="block-label">Email Address</label>
+              
+           <input class="text-input" type="text" name="first_name" id="fname" 
+           placeholder="Name" required>
+            <span> 
+                <br>
+            </span>
 
-           <input class="text-input" type="email" name="email_address" id="email" required>
+           <input class="text-input" type="email" name="email_address" id="email" placeholder="E-mail" required>
            
-            <label for="road" class="block-label>Road</label>
-           <input type="radio" name="running_preference" id="road" value="road" required>
-            <label for="trail">Trail</label>
-           <input type="radio" name="running_preference" id="trail" value="trail" required>
-           <label for="both">Both</label>
-           <input type="radio" name="running_preference" id="both" value="both" required>
-           <input class="join-button" type="submit" Value="Let's Run!">
+            
+  <textarea placeholder="message"
+  id="text-area" name="text-area" rows="4" cols="40" required>
+ 
+  </textarea>
+            
+           
+            <input class="join-button block-label" type="submit" Value="Sent!">
            
            
            </fielset>
@@ -99,10 +101,11 @@
     <button class="btn-primary col-12"><a href=""><i class="fas fa-file"></i>Cv Download</a></button>
 
           </section>
-          
+          </div>
    </article>
-
-    <footer id="footer" >
+</div>
+   
+    <footer class="container-fluid" id="footer-contact" >
 <div class="social-media">
     <ul>
     <li><a href="https://www.facebook.com/" target="-blank"><i class="fab fa-facebook-square" role="img" aria-label="facebook"></i></a></li>
@@ -112,6 +115,8 @@
     <li><a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin" role="img" aria-label="linkedin"></i></a></li>
     </ul>
 </div>
+
     </footer>
+    </div>
 </body>
 </html>

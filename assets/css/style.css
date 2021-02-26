@@ -139,14 +139,6 @@ background-color: #fafafa;
 }
 
 
-@media screen and (max-width: 576px){
-footer {
-
-  position: relative;
-  right: 0;bottom:0;left:0;
-}
-}
-}
 /*------Buttons menu indext/contact/skills*/
 #buttons{
     display: block;
@@ -230,7 +222,9 @@ display: block;
      overflow: hidden;
      }
      
+#footer{
 
+}
 
    
 .social-media a {
@@ -311,7 +305,29 @@ hr{
         padding-bottom: 30px;
         position: relative;
 }
+#skills .jumbotron{
+    margin: 30px 20px 40px 20px;
+}
+   
 /*form---------*/
 .block-label {
-	display: block;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+#fname{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#text-area{
+     margin: auto;
+    margin-top: 20px; 
+    display: block;
+    overflow: hidden;
+    max-width:95%;
+}
+#form .jumbotron{
+    margin: 30px 20px 40px 20px;
+    overflow: hidden;
 }
