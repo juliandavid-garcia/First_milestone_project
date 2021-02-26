@@ -131,6 +131,7 @@ padding-bottom: 10px;
 #hero-image{
     height:360px;
 }
+
 }
 /*-----skills*/
 
@@ -330,4 +331,59 @@ hr{
 #form .jumbotron{
     margin: 30px 20px 40px 20px;
     overflow: hidden;
+}
+/*----Portfolio-----*/
+.coffelover{
+     background: url("../images/coffe-lovers.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 100vh;
+     width: 100vw;
+    display: block;
+    overflow: scroll;
+    margin-bottom: 20px;
+  
+
+}
+.love-running{
+background: url("../images/love_running.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 100vh;
+     width: 100vw;
+    display: block;
+     margin-bottom: 20px;
+   
+}
+.resume{
+background: url("../images/resume.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+     width: 100vw;
+    display: block;
+     margin-bottom: 20px;
+}
+.whiskey{
+background: url("../images/whiskey.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      height: 100vh;
+     width: 100vw;
+    display: block;
+    
+}
+.graphic-design{
+    
+}
+@media screen and (max-width: 576px){
+.coffelover, .whiskey, .resume, .love-running  {
+    height:200px;
+    margin-bottom: 20px;
+    
+}
 }
