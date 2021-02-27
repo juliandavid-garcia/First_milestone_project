@@ -332,112 +332,15 @@ hr{
     margin: 30px 20px 40px 20px;
     overflow: hidden;
 }
-/*----Portfolio-----*/
-.coffelover{
-     background: url("../images/coffe-lovers.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-     height: 100vh;
-     width: 100vw;
-    display: block;
-    overflow: scroll;
-    margin-bottom: 20px;
-  
-
+/*----Portfolio--*/
+#designs{
+column-gap: 0px;
 }
-.love-running{
-background: url("../images/love_running.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-     height: 95vh;
-     width: 100vw;
-    display: block;
-     margin-bottom: 20px;
-   
+img {
+    height: auto;
+    width: 100%;
 }
-.resume{
-background: url("../images/resume.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-     width: 100vw;
-    display: block;
-     margin-bottom: 20px;
-}
-.whiskey{
-background: url("../images/whiskey.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      height: 100vh;
-     width: 100vw;
-    display: block;
-    
-}
-.graphic-design{
-    
-}
-@media screen and (max-width: 576px){
-.coffelover, .whiskey, .resume, .love-running  {
-    height:200px;
-    margin-bottom: 20px;
-    
-}
-#apple-delight, #infuse-bar, #margarita, #pineapple, 
-#whiskey-sour{
-    height:200px;
-    margin-bottom: 20px;
-}
-}
-
-#apple-delight{
-    background: url("../images/appledelight.jpg");
-     background-position: center;
-    background-repeat: no-repeat;
-    background-size: small;
-      height: 100vh;
-     width: 100vw;
-    display: block;
-}
-#infuse-bar{
-background: url("../images/infuse bar west.jpg");
-     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      height: 100vh;
-     width: 100vw;
-    display: block;
-}
-#margarita{
-background: url("../images/Margarita.jpg");
-     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      height: 100vh;
-     width: 100vw;
-    display: block;
-    overflow: hidden;
-}
-#pineapple{
-    background: url("../images/pineapple.jpg");
-     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-      height: 100vh;
-     width: 100vw;
-    display: block;
-}
-
-
-#whiskey-sour{
-    background: url("../images/whiskey sour.jpg");
-     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: block;
-    height: 100vh;
-     width: 100vw;
+@media screen and (min-width: 576px){
+    #designs{
+    column-count: 2;}
 }
