@@ -1,4 +1,4 @@
-![Wiframes]()
+
 
 # Personal Portfolio
 
@@ -17,7 +17,7 @@ To let the recruiters interact with the examples displayed all images are linked
 
 To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases they require one to add to their data base. 
 
-Users who navigate through this page will count with a navigation bar  which will let them move around the web as intuitive and responsive as possible. Therefore 3 different Menu styles were used to achieve this it responsiveness. 
+
 
 ##### User Story: 
 ######As recruiter I want to:
@@ -39,34 +39,46 @@ Story as a professor i want to:
 
 
 Developers goals: 
-Attract  as many  recruiters as  clients as possible.
+Attract  as many  recruiters and clients as possible.
 
 
-![Wiframes](https://www.figma.com/file/i39DUmNpTbfhRYNPKlhc2G/project-one?node-id=19%3A0)
-
+![Wiframes](/images/wireframes.jpg)
 
 
 ## Features
-
+About me : This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side 
+the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
+ Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
+        
+Contact : This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
+Social media: is located in the footer. all the icons are  linked  to its corresponding website.
+Cv: Is a downloadable file
+Skills: all the technical capabilities are illustrated in graphics
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
+ Users who navigate through this page will count with a navigation bar  which will let them move around the web as intuitive and responsive as possible. Therefore 3 different Menu styles were used to achieve this it responsiveness. 
+
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
+- All the features attached to the navigation bar are accessible at every page of the website. Therefore all of them are interconected letting the user to move to any of the pages no matter his/her location. 
 - ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+More features will be added  along  de course. 
+A link to the real websites will also be added. 
+Color can be changed. 
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-### Features Left to Implement
-- Another feature idea
+
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+This website was built using:
+[HTML](https://html.com) **HTML**is used to create pages and make them functional.
+[CSS](https://css3.com) **Css** is used to style the page
+[Boostrap](https://Boostrap.com) **Boostrap** is used also to style the page
+[Fontawesome](https://fontawesome.com/) **Fontawesome** used to add icons
+[Googlefont](https://fonts.google.com/) **Googlefont** used to set the font
+[Gitpot](http://gitpod.io/) **Gitpod** use to edit and built the page
+[Github](http://github.com/) **Github** use to storage the page 
+[Figma](http://figma.com/) **Figma** used to creat a wireframe or mock-up 
+[Photoshop](http://photoshop.com/) **Photoshop** used to edit the images used in the page. 
 
 
 ## Testing
