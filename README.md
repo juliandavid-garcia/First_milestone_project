@@ -29,14 +29,6 @@ Have direct contact with the developer either to ask about some specific feature
 
 Reach the developer through his social media channels
 
-About 
-Contact                    social stories 
-Social media 
-Cv
-
-Story as a professor i want to: 
-
-
 
 Developers goals: 
 Attract  as many  recruiters and clients as possible.
@@ -51,8 +43,11 @@ the navigation bar:  located in the top of the image containes the different sec
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
 Contact : This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
+
 Social media: is located in the footer. all the icons are  linked  to its corresponding website.
+
 Cv: Is a downloadable file
+
 Skills: all the technical capabilities are illustrated in graphics
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  Users who navigate through this page will count with a navigation bar  which will let them move around the web as intuitive and responsive as possible. Therefore 3 different Menu styles were used to achieve this it responsiveness. 
@@ -79,6 +74,7 @@ This website was built using:
 [Github](http://github.com/) **Github** use to storage the page 
 [Figma](http://figma.com/) **Figma** used to creat a wireframe or mock-up 
 [Photoshop](http://photoshop.com/) **Photoshop** used to edit the images used in the page. 
+
 
 
 ## Testing
