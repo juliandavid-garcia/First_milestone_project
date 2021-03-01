@@ -34,7 +34,7 @@ Developers goals:
 Attract  as many  recruiters and clients as possible.
 
 
-![Wiframes](/images/wireframes.jpg)
+![Wiframes](/assets/images/wireframes.jpg)
 
 
 ## Features
@@ -65,15 +65,15 @@ Color can be changed.
 
 ## Technologies Used
 This website was built using:
-[HTML](https://html.com) **HTML**is used to create pages and make them functional.
-[CSS](https://css3.com) **Css** is used to style the page
-[Boostrap](https://Boostrap.com) **Boostrap** is used also to style the page
-[Fontawesome](https://fontawesome.com/) **Fontawesome** used to add icons
-[Googlefont](https://fonts.google.com/) **Googlefont** used to set the font
-[Gitpot](http://gitpod.io/) **Gitpod** use to edit and built the page
-[Github](http://github.com/) **Github** use to storage the page 
-[Figma](http://figma.com/) **Figma** used to creat a wireframe or mock-up 
-[Photoshop](http://photoshop.com/) **Photoshop** used to edit the images used in the page. 
+- [HTML](https://html.com) **HTML**is used to create pages and make them functional.
+- [CSS](https://css3.com) **Css** is used to style the page
+- [Boostrap](https://Boostrap.com) **Boostrap** is used also to style the page
+- [Fontawesome](https://fontawesome.com/) **Fontawesome** used to add icons
+- [Googlefont](https://fonts.google.com/) **Googlefont** used to set the font
+- [Gitpot](http://gitpod.io/) **Gitpod** use to edit and built the page
+- [Github](http://github.com/) **Github** use to storage the page 
+- [Figma](http://figma.com/) **Figma** used to creat a wireframe or mock-up 
+- [Photoshop](http://photoshop.com/) **Photoshop** used to edit the images used in the page. 
 
 
 
