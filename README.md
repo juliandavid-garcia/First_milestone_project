@@ -38,7 +38,7 @@ Attract  as many  recruiters and clients as possible.
 
 
 ## Features
-About me : This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side 
+About me : This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side as well as first impresion of the web developer.
 the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
@@ -78,12 +78,20 @@ This website was built using:
 
 
 ## Testing
+ All the features of this project have been tested  in order to make sure that  they respond effectively. Therefore, user can move from page to page since all of them are interconnected. 
+In the case of the cv feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+1 contact form:
+In the  “contact” page there is a form
+If the information required is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields appears. 
+ When all the inputs are properly filled. A confirmation message appears. 
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+This website is responsive. Consequently, it has been developed as to  be displayed in any device. 
+The main changes users can evidence when accessing the site in a different device are:
+In devices up to 576px buttons are used as the menu. Except for the portfolio page where there is a dropdown menu since this page is quite long. 
+In devices with more than 576px  all pages have a top fixed navigation bar. 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+In the portfolio-page pictures are displayed in two columns except in devices with less than 576px where just one column is displayed. 
 
 1. Contact form:
     1. Go to the "Contact Us" page
@@ -91,11 +99,19 @@ For any scenarios that have not been automated, test the user stories manually a
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+    This web has been tested in the following browsers
+    - Mozila fire fox
+    - Opera
+    - Chrome 
+    - windows Explorer
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. it needed to  add the query link from boostrap to the header.
+  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
+  
+
+
 
 ## Deployment
 
@@ -110,28 +126,27 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
-
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+the Drop down menu was taken from 
+- www.w3schools.com
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
+The hero image was addapted from taken from
+_ www.Bootstrap.com
+the form was built following Bootstrap :
+https://getbootstrap.com/docs/5.0/forms/form-control/
+- the icons where where taken from Font awesome
 
 ### Media
 - The photos used in this site were obtained from ...
+https://unsplash.com/photos/-EvvsegVoUE
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from the previous exercises made during the course. specially from the Love-running and Whiskey lovers examples. 
 
-#debugging
- i have some problems with the navigation bar. i have tried doing it myself but when i get  to make the dropdown menu it does not work. 
- i finally made the menudrop work. it needed to  add the query link from boostrap to the header
- i manage to make the heading responsibe
- hero image and buttons were added together wit it icons
-  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
-  these were buttons taken from since i could not make ming worrked, i realised it was the link from boostrap which was missinng
 
- ##credit.
-  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
-  these were buttons taken from since i could not make ming worrked, i realised it was the link from boostrap which was missinng
+
+
+  
 
 
 
