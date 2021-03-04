@@ -115,12 +115,18 @@ I have some problems with the navigation bar. I  tried doing it myself but when 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+To deployment process concisted on : (e.g. GitHub .
+
+
+
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+- open github which 
+- Open workspace/First_milestone_project
+- Open setting and scrolled down until Page
+- Click on the None dropdown menu and select the branch to publish : master
+- Click save
+- The website is now deployed.
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
