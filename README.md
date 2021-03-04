@@ -120,7 +120,7 @@ To deployment process concisted on : (e.g. GitHub .
 
 
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+# Deployment
 - open github which 
 - Open workspace/First_milestone_project
 - Open setting and scrolled down until Page
