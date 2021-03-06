@@ -8,10 +8,10 @@ Therefore, recruiters and potencial clients can have evidence of my skills as de
 
  
 ## UX
-This website is specially addressed to contact  web-developer recruiters and possible clients, in order to show them my skills through the different websites i have built so far. 
+This website is specially addressed to contact  web developer recruiters and possible clients, in order to show them my skills through the different websites i have built so far. 
  
 
-As i want this Portfolio to be reached by as many recruiters as possible I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images, in order to make it more visible to search engines. 
+As i want this Portfolio to be reached by  many recruiters as possible I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images, in order to make it more visible to search engines. 
 
 To let the recruiters interact with the examples displayed all images are linked to git hub on a _blank page. (if possible)
 
@@ -19,8 +19,8 @@ To facilitate the interaction with recruiters, a form and a text area are includ
 
 
 
-##### User Story: 
-######As recruiter I want to:
+## User Story: 
+### As recruiter I want to:
 Have access to examples of projects that the developer has built in order to see what his capabilities as developer are.
 
  Interact with the examples given to see how the websites respond to my needs. 
@@ -38,30 +38,26 @@ Attract  as many  recruiters and clients as possible.
 
 
 ## Features
-About me : This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side as well as first impresion of the web developer.
-the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
+
+ The User can find all the features of this page attached to the navigation bar. these features are accessible at every page of the website. Therefore all of them are interconected, letting the user move around the pages no matter his/her location. 
+
+### About me : 
+This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side as well as first impresion of the web developer.
+###the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
-Contact : This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
+### Contact:
+ This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
 
-Social media: is located in the footer. all the icons are  linked  to its corresponding website.
+### Social media: 
+Is located in the footer. all the icons are  linked  to its corresponding website.
 
-Cv: Is a downloadable file
+### Cv: 
+Is a downloadable file with all my personal information. Education, work experience, E-mail, telephone, and addres. 
 
-Skills: all the technical capabilities are illustrated in graphics
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- Users who navigate through this page will count with a navigation bar  which will let them move around the web as intuitive and responsive as possible. Therefore 3 different Menu styles were used to achieve this it responsiveness. 
-
-### Existing Features
-- All the features attached to the navigation bar are accessible at every page of the website. Therefore all of them are interconected letting the user to move to any of the pages no matter his/her location. 
-- ...
-
-More features will be added  along  de course. 
-A link to the real websites will also be added. 
-Color can be changed. 
-
-
-
+### Skills:
+ In this section the users can find all my technical capabilities as a developer illustrated in graphics. Thus, the recruiter can have an idea of how much i  know about the  technologies i have learn. 
+ 
 
 ## Technologies Used
 This website was built using:
@@ -78,7 +74,10 @@ This website was built using:
 
 
 ## Testing
- All the features of this project have been tested  in order to make sure that  they respond effectively. Therefore, user can move from page to page since all of them are interconnected. 
+ -All the features of this project have been tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
+
+ 
+
 In the case of the cv feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
 
 1 contact form:
@@ -114,28 +113,31 @@ I have some problems with the navigation bar. I  tried doing it myself but when 
 
 
 ## Deployment
-
-To deployment process concisted on : (e.g. GitHub .
-
-
-
-
-# Deployment
-- open github which 
+- Open github 
 - Open workspace/First_milestone_project
+![setting](/Readme-images/settings.png)
 - Open setting and scrolled down until Page
-- Click on the None dropdown menu and select the branch to publish : master
+![pages](/Readme-images/pages.png)
+- Click on the None dropdowmenu and select the branch to publish : master
+![pages](/Readme-images/branches.png)
 - Click save
 - The website is now deployed.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+##To clon the repository using GitHub Desktop
+-On GitHub, navigate to the main page of the repository.
+![pages](/Readme-images/branches.png)
+-Click on the green button "code"
+![code](/Readme-images/code-button.png)
+-Select "Open with GitHub Desktop" to clone and open the the respository with GitHub Desktop.
+![Desktop](/Readme-images/Desktop.png)
+
 
 
 ## Credits
-the Drop down menu was taken from 
+The Drop down menu used for the devices up to 576px was taken from 
 - www.w3schools.com
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
-The hero image was addapted from taken from
+
 _ www.Bootstrap.com
 the form was built following Bootstrap :
 https://getbootstrap.com/docs/5.0/forms/form-control/
