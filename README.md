@@ -34,7 +34,7 @@ Developers goals:
 Attract  as many  recruiters and clients as possible.
 
 
-![Wiframes](/assets/images/wireframes.jpg)
+![Wiframes](/wiframes-images/wiframes.jpg)
 
 
 ## Features
