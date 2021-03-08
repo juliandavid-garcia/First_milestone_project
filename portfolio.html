@@ -16,14 +16,24 @@
 </head>
      <body class="container-fluid no-gutters">
          <header>
-    <!--------Navigation bar hamburger-->
-          <div class="container-fluid no-gutters">
-             <div class="row container-fluid no-gutters">
-                <nav id="menubar" class="col">
-                   <div class="dropdown d-block d-sm-none">
-                       <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown"><i class="fa fa-bars"></i>
-                          <span class="caret"></span>
-                        </button>
+            <!-- Top Navigation Menu -->
+            <nav id="menubar" class="col container-fluid no-gutters">
+                <div class="d-block d-sm-none">
+                   <div class="topnav container-fluid no-gutters">
+                      <a href="index.html">Logo</a>
+                        <div id="myLinks">
+                          <a href="portfolio.html" class="active">Portfolio</a>
+                          <a href="index.html">Home</a>
+                          <a href="contact.html">Contact</a>
+                          <a href="assets/cv/cv_sample.pdf" target="_blank">Resume</a>
+                          <a href="skills.html">Skills</a>
+                          
+                        </div>
+                             <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i>
+                             </a>
+                    </div>
+                       
+                </div>
                              <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
                                 <li role="presentation"><a role="menuitem" tabindex="-1" href="portfolio.html" class="active">Portfolio</a></li>
                                <li role="presentation"><a role="menuitem" tabindex="-1" href="index.html">Home</a></li><br>
