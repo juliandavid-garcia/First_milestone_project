@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     
+     <!-----------fontawesmoe-->
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+   <!-----------googlefonts-->
    <link rel="preconnect" href="https://fonts.gstatic.com"> 
    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <!-----------CDN-Boodstap-->
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -16,22 +18,22 @@
 </head>
      <body class="container-fluid no-gutters">
         <header>
-    <!--------Navigation bar hamburger-->
-          <div class="container-fluid no-gutters">
-             <div class="row container-fluid no-gutters">
-                <nav id="menubar" class="col">
-                   <div class="dropdown d-block d-sm-none">
-                       <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown"><i class="fa fa-bars"></i>
-                          <span class="caret"></span>
-                        </button>
-                             <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-                               <li role="presentation"><a role="menuitem" tabindex="-1" href="index.html" class="active">Home</a></li><br>
-                               <li role="presentation"><a role="menuitem" tabindex="-1" href="contact.html">Contact </a></li><br>
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="skills.html"> Skills</a></li><br>
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="assets/cv/cv_sample.pdf" target="_blank">Resume</a></li><br>
-                                <li role="presentation"><a role="menuitem" tabindex="-1" href="portfolio.html">Portfolio</a></li><br>
-                             </ul>
-          </div>
+            <!-- Top Navigation Menu -->
+            <nav id="menubar" class="col container-fluid no-gutters">
+                <div class="d-block d-sm-none">
+                   <div class="topnav container-fluid no-gutters">
+                      <a href="#home" class="active">Logo</a>
+                        <div id="myLinks">
+                          <a href="index.html" class="active">Home</a>
+                          <a href="contact.html">Contact</a>
+                          <a href="assets/cv/cv_sample.pdf" target="_blank">Resume</a>
+                          <a href="skills.html">Skills</a>
+                        </div>
+                             <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i>
+                             </a>
+                    </div>
+                       
+                </div>
  <!--------Navigation bar expanded top-->
                              <ul class="text-center d-none d-sm-block no-gutters">
                                 <li class="col-sm-1">
@@ -51,16 +53,16 @@
                                 </li>
                             </ul>
                 </nav>
-            </div>
+          
  <!--------Header-->
                             <div id="name" class="container-fluid">
                                  <a class="col-sm-2" href="index.html">
                                    <h3>Julian Garcia</h3>
                                       <h6 class="degree">Web Developer
                                       </h6>
-                                 </a>
+                                </a>
                             </div>
-         </div>
+         
 
         </header>
     <!-- Header image-->
@@ -96,7 +98,8 @@
       <section>
         <div id="buttons" class="d-block d-sm-none">
            <button class="btn-primary col-12"><a href="portfolio.html"><i class="fas fa-briefcase" role="img" aria-label="portfolio"></i>Portfolio</a></button>
-          <button class="btn-primary col-12"><a href="contact.html"><i class="fas fa-envelope" role="img" aria-label="contact me"></i>Contact me</a></button>
+         
+           <button class="btn-primary col-12"><a href="contact.html"><i class="fas fa-envelope" role="img" aria-label="contact me"></i>Contact me</a></button>
           <button class="btn-primary col-12"><a href="skills.html"><i class="fas fa-chart-bar" role="img" aria-label="skills"></i>Skills</a></button>
          <button class="btn-primary col-12"><a href="assets/cv/cv_sample.pdf" target="_blank"><i class="fas fa-file"></i>Cv Download</a></button>
         </div>
@@ -114,5 +117,15 @@
              </ul>
         </div>
     </footer>
+    <script>
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
 </body>
 </html>
