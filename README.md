@@ -43,7 +43,7 @@ Attract  as many  recruiters and clients as possible.
 
 ### About me : 
 This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side as well as first impresion of the web developer.
-###the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
+### the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
 ### Contact:
@@ -136,12 +136,13 @@ I have some problems with the navigation bar. I  tried doing it myself but when 
 ## Credits
 The Drop down menu used for the devices up to 576px was taken from 
 - www.w3schools.com
-https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
+-https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
 
 _ www.Bootstrap.com
 the form was built following Bootstrap :
 https://getbootstrap.com/docs/5.0/forms/form-control/
 - the icons where where taken from Font awesome
+https://fontawesome.com/icons
 
 ### Media
 - The photos used in this site were obtained from ...
