@@ -76,11 +76,7 @@ width: 100%;
 position:fixed;
 z-index: 4;
 }
-
-
-
-    
-
+  
 #menubar li{
     float:right;
      margin-right: 0;
@@ -89,12 +85,7 @@ z-index: 4;
      padding-top: 2px;
      padding-bottom: 40px;
      list-style-type:none;
-    
 }
-
-
-}
-
 
 ul #hamburger{
     margin-right: 5%;
@@ -292,16 +283,19 @@ display: block;
      width:100%;
      overflow: hidden;
      }
+
 .social-media a {
     color:#fafafa;
-    size: 30px;
 }
+
 .social-media a:hover {
     color:#b1abab;
 }
+
 .social-media ul i{
 font-size: 40px;
 }
+
 .social-media li{
     float: right;
     margin-right: 0;
@@ -316,6 +310,7 @@ font-size: 40px;
     height: 25px;
     margin-bottom: 4px;
 }
+
 .progress-type {
     position: absolute;
     left: 0;

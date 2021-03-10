@@ -1,5 +1,5 @@
 
-
+![portfolio](/Readme-images/responsive.png)
 # Personal Portfolio
 
 This portfolio collects examples of the different projects i have developed during my formation as full stack software developer at the code institute. 
@@ -7,7 +7,7 @@ Therefore, recruiters and potencial clients can have evidence of my skills as de
 
 
  
-## UX
+##  1. UX
 This website is specially addressed to contact  web developer recruiters and possible clients, in order to show them my skills through the different websites i have built so far. 
  
 
@@ -19,7 +19,7 @@ To facilitate the interaction with recruiters, a form and a text area are includ
 
 
 
-## User Story: 
+## 1.1 User Story: 
 ### As recruiter I want to:
 Have access to examples of projects that the developer has built in order to see what his capabilities as developer are.
 
@@ -34,32 +34,44 @@ Developers goals:
 Attract  as many  recruiters and clients as possible.
 
 
-![Wiframes](/wiframes-images/wiframes.jpg)
+## 1.2 [Wiframes](/wiframes-images/wiframes.jpg)
 
 
-## Features
+## 3 Features
+
+### 3.1. Existing features
 
  The User can find all the features of this page attached to the navigation bar. these features are accessible at every page of the website. Therefore all of them are interconected, letting the user move around the pages no matter his/her location. 
 
-### About me : 
-This feature consist on two paragraphs located below the hero image of the index page, where people is introduced to what they are goint to find in the web side as well as first impresion of the web developer.
-### the navigation bar:  located in the top of the image containes the different sections of the website displayed in devices up to 576px
+### 3.1.1 Home:
+
+This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar than links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors also in this page there is a section called  about me which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
+
+### 3.1.2 Navigation bar:  
+located in the top of the image containes the different sections of the website displayed in devices up to 576px
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
-### Contact:
+
+
+### 3.1.3 Contact:
  This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
 
-### Social media: 
-Is located in the footer. all the icons are  linked  to its corresponding website.
+### 3.1.4 Social media: 
+Is located in the footer. here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
 
-### Cv: 
+### 3.1.5 Resume: 
 Is a downloadable file with all my personal information. Education, work experience, E-mail, telephone, and addres. 
 
-### Skills:
+### 3.1.6 Skills:
  In this section the users can find all my technical capabilities as a developer illustrated in graphics. Thus, the recruiter can have an idea of how much i  know about the  technologies i have learn. 
- 
 
-## Technologies Used
+### 3.2 Features left to implement in the future
+ - In the future i would like to add some notification message once the message has been sent. 
+ _ i would like to add a section where  people can share there experience after having worked with me. 
+
+
+
+## 4. Technologies Used
 This website was built using:
 - [HTML](https://html.com) **HTML**is used to create pages and make them functional.
 - [CSS](https://css3.com) **Css** is used to style the page
@@ -73,17 +85,31 @@ This website was built using:
 
 
 
-## Testing
- -All the features of this project have been tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
+## 5. Testing
+ - All the features of this project have been manually tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
 
- 
 
-In the case of the cv feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
+- In the case of the cv feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
 
-1 contact form:
-In the  “contact” page there is a form
-If the information required is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields appears. 
- When all the inputs are properly filled. A confirmation message appears. 
+ - Contact form:
+When filling the form if the information required in the contact form is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields will appear. 
+
+As part of the testing process this website was tested using:
+ - [W3C Markup Validator](https://validator.w3.org/)  -[results here](W3c.md)
+ - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+- To achive the correct validation through these validator some modifications were made. such as:
+   - The hamburger menu had to be replaced since the one originally used was not compatible. 
+   - the buttons menu had to be also restructured since "a" elements can not be child of buttons. 
+
+
+ This web has been tested in the following browsers:
+
+ - [Mozila fire fox](https://www.mozilla.org/en-US/firefox/new/)
+ - [Opera](https://www.opera.com/)
+ - [Chrome](https://www.google.com/chrome/)
+ - [windows Explorer](https://www.microsoft.com/en-us/edge).
+
 
 This website is responsive. Consequently, it has been developed as to  be displayed in any device. 
 The main changes users can evidence when accessing the site in a different device are:
@@ -92,27 +118,14 @@ In devices with more than 576px  all pages have a top fixed navigation bar.
 
 In the portfolio-page pictures are displayed in two columns except in devices with less than 576px where just one column is displayed. 
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-
-    This web has been tested in the following browsers
-    - Mozila fire fox
-    - Opera
-    - Chrome 
-    - windows Explorer
-
-
-I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. it needed to  add the query link from boostrap to the header.
-  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h
+I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
+  [w3chool](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h)
   
 
 
 
-## Deployment
+## 7. Deployment
 - Open github 
 - Open workspace/First_milestone_project
 ![setting](/Readme-images/settings.png)
@@ -123,35 +136,39 @@ I have some problems with the navigation bar. I  tried doing it myself but when 
 - Click save
 - The website is now deployed.
 
-##To clon the repository using GitHub Desktop
+## 8. To clon the repository using GitHub Desktop
 -On GitHub, navigate to the main page of the repository.
+
 ![pages](/Readme-images/branches.png)
+
 -Click on the green button "code"
+
 ![code](/Readme-images/code-button.png)
 -Select "Open with GitHub Desktop" to clone and open the the respository with GitHub Desktop.
 ![Desktop](/Readme-images/Desktop.png)
 
 
 
-## Credits
+## 9. Credits:
 The Drop down menu used for the devices up to 576px was taken from 
 - www.w3schools.com
 -https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
 
-_ www.Bootstrap.com
-the form was built following Bootstrap :
+The form was built following Bootstrap :
+- www.Bootstrap.com
+
 https://getbootstrap.com/docs/5.0/forms/form-control/
-- the icons where where taken from Font awesome
+- The icons where taken from Font awesome
 https://fontawesome.com/icons
 
-### Media
+## 10. Media
 - The photos used in this site were obtained from ...
 https://unsplash.com/photos/-EvvsegVoUE
 
-### Acknowledgements
+## 11. Acknowledgements
 
-- I received inspiration for this project from the previous exercises made during the course. specially from the Love-running and Whiskey lovers examples. 
-
+- I received inspiration for this project from the previous exercises made during the course. Specially, from the Love-running and Whiskey lovers examples. 
+- thanks to Precious Ijege for his mentoring while developing this project. 
 
 
 
