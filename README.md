@@ -34,13 +34,15 @@ Developers goals:
 Attract  as many  recruiters and clients as possible.
 
 
-## 1.2 [Wiframes](/wiframes-images/wiframes.jpg)
+## 1. 2  [Wiframes](/wiframes-images/wiframes.jpg)
 
 ## 2. Design
 
 
 
-## 3 Features
+
+
+## 3. Features
 
 ### 3.1. Existing features
 
@@ -85,21 +87,21 @@ This website was built using:
 - [Github](http://github.com/) **Github** use to storage the page 
 - [Figma](http://figma.com/) **Figma** used to creat a wireframe or mock-up 
 - [Photoshop](http://photoshop.com/) **Photoshop** used to edit the images used in the page. 
-
+- [Responsivedesign](http://ami.responsivedesign.is/) **Responsive Design** to show how it looks in defferent devices. 
 
 
 ## 5. Testing
  - All the features of this project have been manually tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
 
 
-- In the case of the cv feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
+- In the case of the Resume feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
 
  - Contact form:
 When filling the form if the information required in the contact form is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields will appear. 
 
 As part of the testing process this website was tested using:
  - [W3C Markup Validator](https://validator.w3.org/)  -[Results here](testing.md)
- - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+ - [Jigsaw W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 - To achive the correct validation through these validator some modifications were made. such as:
    - The hamburger menu had to be replaced since the one originally used was not compatible. 
@@ -123,14 +125,14 @@ In the portfolio-page pictures are displayed in two columns except in devices wi
 
 
 I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
-  [w3chool](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_comp_dropdown-menu&stacked=h)
+
   
 
 
 
 ## 7. Deployment
 - Open github 
-- Open workspace/First_milestone_project
+- Open workspace/First_milestone_project and go to setting.
 ![setting](/Readme-images/settings.png)
 - Open setting and scrolled down until Page
 ![pages](/Readme-images/pages.png)
@@ -138,6 +140,7 @@ I have some problems with the navigation bar. I  tried doing it myself but when 
 ![pages](/Readme-images/branches.png)
 - Click save
 - The website is now deployed.
+- https://juliandavid-garcia.github.io/First_milestone_project/
 
 ## 8. To clon the repository using GitHub Desktop
 -On GitHub, navigate to the main page of the repository.
@@ -174,9 +177,6 @@ https://unsplash.com/photos/-EvvsegVoUE
 - thanks to Precious Ijege for his mentoring while developing this project. 
 
 
-
-  
-
-
-
+- ## Github
+  https://github.com/juliandavid-garcia
 
