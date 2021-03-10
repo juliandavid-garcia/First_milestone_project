@@ -98,7 +98,7 @@ This website was built using:
 When filling the form if the information required in the contact form is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields will appear. 
 
 As part of the testing process this website was tested using:
- - [W3C Markup Validator](https://validator.w3.org/)  -[results here] (testing.md)
+ - [W3C Markup Validator](https://validator.w3.org/)  -[Results here](testing.md)
  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 - To achive the correct validation through these validator some modifications were made. such as:
