@@ -68,6 +68,18 @@ h1, h2, h3, h4, h5, h6{
 .activen{
     border-bottom: 1px solid rgb(236, 235, 235);
 }
+.dropdown-toggle::after {
+    display: none;
+  
+}
+button .fas {
+    font-size: 22px;
+}
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #383838;
+}
 /*-------portfolio------*/
 
 #menubar{

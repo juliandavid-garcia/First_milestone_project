@@ -25,19 +25,17 @@
                 <!-- Top Navigation Hamburger Menu -->
             <nav id="menubar" class="col container-fluid no-gutters">
                 <div class="d-block d-sm-none">
-                   <div class="topnav container-fluid no-gutters">
-                      <a href="index.html"></a>
-                        <div id="myLinks">
-                          <a href="portfolio.html" class="active">Portfolio</a>
-                          <a href="index.html">Home</a>
-                          <a href="contact.html">Contact</a>
-                          <a href="assets/cv/cv_sample.pdf" target="_blank">Resume</a>
-                          <a href="skills.html">Skills</a>
-                          
-                        </div>
-                             <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i>
-                             </a>
-                    </div>
+                     <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-bars"></i>
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item active" href="portfolio.html"> Portfolio</a>
+    <a class="dropdown-item" href="index.html">Home</a>
+    <a class="dropdown-item" href="contact.html">Contact</a>
+    <a class="dropdown-item" href="assets/cv/cv_sample.pdf" target="_blank">Resume</a>
+    <a class="dropdown-item" href="skills.html">Skills</a>
+  </div>
+</div>
                        
                 </div>
                             
@@ -134,15 +132,7 @@
                    </ul>
                </div>
     </footer>
-    <script>
-function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 </body>
 </html>

@@ -69,6 +69,8 @@ I have some problems with the navigation bar. I  tried doing it myself but when 
 
 - When trying to add a description to the images from the gallery i could not add a layer to the element "img" therefore i decided to omit this feature. 
 
+-
+
  ## As recruiter I want to: ##
 Have access to examples of projects that the developer has built in order to see what his capabilities as developer are.
    - When the recruiter or client clicks on **Portfolio** is brought to a gallery of images with examples of the works the developer has built or made part of. 
