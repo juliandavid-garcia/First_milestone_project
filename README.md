@@ -38,8 +38,10 @@ Attract  as many  recruiters and clients as possible.
 
 ## 2. Design
 
-
-
+This website was design thinking on a minimalist 
+concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but funtional, avoiding the over use of colors which could be stressful for the users. Hence, black white and gray are the prodominant colour.
+the font  
+Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast they offer. 
 
 
 ## 3. Features
