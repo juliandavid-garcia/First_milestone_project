@@ -3,7 +3,7 @@
 - All the features of this project have been manually tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
 
 
-- In the case of the Resume feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
+- In the case of the ** Resume feature **. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
 
  - Contact form:
 When filling the form if the information required in the contact form is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields will appear. 
@@ -61,7 +61,7 @@ In devices with more than 576px  all pages have a top fixed navigation bar.
 In the portfolio-page pictures are displayed in two columns except in devices with less than 576px where just one column is displayed. 
 
 ## Bugs ##
-I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
+I have some problems with the navigation bar. I  tried doing it myself but when i got to make the dropdown menu work, it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
 
 - After having fixed the problem mention above i came across with another problem related to the drop menu, When validating in the W3C Markup Validator site. This time the validator showed an error related to the use of buttons inside the 'a' Element which made me change the whole menu since. according to the validator this
 

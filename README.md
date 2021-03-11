@@ -3,7 +3,7 @@
 # Personal Portfolio
 
 This portfolio collects examples of the different projects i have developed during my formation as full stack software developer at the code institute. 
-Therefore, recruiters and potencial clients can have evidence of my skills as developer and also as graphic designer since some compositions made with photoshop were added. 
+Therefore, recruiters and potencial clients can have evidence of my skills as developer and also as graphic designer, since some compositions made with photoshop were added. 
 
 
  
@@ -11,9 +11,9 @@ Therefore, recruiters and potencial clients can have evidence of my skills as de
 This website is specially addressed to contact  web developer recruiters and possible clients, in order to show them my skills through the different websites i have built so far. 
  
 
-As i want this Portfolio to be reached by  many recruiters as possible I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images, in order to make it more visible to search engines. 
+As i want this Portfolio to be reached by  many recruiters as possible, I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images,  as to make it more visible to search engines. 
 
-To let the recruiters interact with the examples displayed all images are linked to git hub on a _blank page. (if possible)
+To let the recruiters interact with the examples displayed, all images are linked to git hub on a _blank page. (if possible)
 
 To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases they require one to add to their data base. 
 
@@ -40,8 +40,8 @@ Attract  as many  recruiters and clients as possible.
 
 This website was design thinking on a minimalist 
 concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but funtional, avoiding the over use of colors which could be stressful for the users. Hence, black white and gray are the prodominant colour.
-the font  
-Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast they offer. 
+The font : 
+Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast they offer making the site look clean and ordered. 
 
 
 ## 3. Features
@@ -52,7 +52,7 @@ Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast t
 
 ### 3.1.1 Home:
 
-This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar than links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors also in this page there is a section called  about me which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
+This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar than links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  about me which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
 
 ### 3.1.2 Navigation bar:  
 located in the top of the image containes the different sections of the website displayed in devices up to 576px
@@ -64,7 +64,7 @@ located in the top of the image containes the different sections of the website 
  This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
 
 ### 3.1.4 Social media: 
-Is located in the footer. here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
+Is located in the footer. Here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
 
 ### 3.1.5 Resume: 
 Is a downloadable file with all my personal information. Education, work experience, E-mail, telephone, and addres. 
