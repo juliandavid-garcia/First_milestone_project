@@ -93,44 +93,11 @@ This website was built using:
 
 
 ## 5. Testing
- - All the features of this project have been manually tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
-
-
-- In the case of the Resume feature. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
-
- - Contact form:
-When filling the form if the information required in the contact form is not correct (wrong email format, or not filling the text boxes.) an error message about the required fields will appear. 
-
-As part of the testing process this website was tested using:
- - [W3C Markup Validator](https://validator.w3.org/)  -[Results here](testing.md)
- - [Jigsaw W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-
-- To achive the correct validation through these validator some modifications were made. such as:
-   - The hamburger menu had to be replaced since the one originally used was not compatible. 
-   - the buttons menu had to be also restructured since "a" elements can not be child of buttons. 
-
-
- This web has been tested in the following browsers:
-
- - [Mozila fire fox](https://www.mozilla.org/en-US/firefox/new/)
- - [Opera](https://www.opera.com/)
- - [Chrome](https://www.google.com/chrome/)
- - [windows Explorer](https://www.microsoft.com/en-us/edge).
-
-
-This website is responsive. Consequently, it has been developed as to  be displayed in any device. 
-The main changes users can evidence when accessing the site in a different device are:
-In devices up to 576px buttons are used as the menu. Except for the portfolio page where there is a dropdown menu since this page is quite long. 
-In devices with more than 576px  all pages have a top fixed navigation bar. 
-
-In the portfolio-page pictures are displayed in two columns except in devices with less than 576px where just one column is displayed. 
-
-
-I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
+ 
+  - [Results here](testing.md)
+ 
 
   
-
-
 
 ## 7. Deployment
 - Open github 

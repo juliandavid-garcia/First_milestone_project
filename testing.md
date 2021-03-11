@@ -60,10 +60,16 @@ In devices with more than 576px  all pages have a top fixed navigation bar.
 
 In the portfolio-page pictures are displayed in two columns except in devices with less than 576px where just one column is displayed. 
 
-
+## Bugs ##
 I have some problems with the navigation bar. I  tried doing it myself but when i get  to make the dropdown menu it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
 
- ### As recruiter I want to:
+- After having fixed the problem mention above i came across with another problem related to the drop menu, When validating in the W3C Markup Validator site. This time the validator showed an error related to the use of buttons inside the 'a' Element which made me change the whole menu since. according to the validator this
+
+- In order to pass the validator i also had to replace some "sections" for "divs" since the validator indicated that those sections were missing a header. 
+
+- When trying to add a description to the images from the gallery i could not add a layer to the element "img" therefore i decided to omit this feature. 
+
+ ## As recruiter I want to: ##
 Have access to examples of projects that the developer has built in order to see what his capabilities as developer are.
    - When the recruiter or client clicks on **Portfolio** is brought to a gallery of images with examples of the works the developer has built or made part of. 
    
