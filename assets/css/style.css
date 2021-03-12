@@ -206,11 +206,11 @@ button {
 
 .btn_left {
     position: absolute;
-  top: 14%;
+  top: 52%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-   background-color:rgba(7, 7, 7, 1);
+   background-color:rgba(7, 7, 7, 0.1);
   color: white;
   font-size: 16px;
   padding: 12px 24px;
@@ -218,9 +218,10 @@ button {
   cursor: pointer;
   border-radius: 5px;
   width:95%;
-  height:25%;
-  opacity: 50%;
+  height:90%;
+  opacity: 90%;
 }
+
 
 @media (min-width: 576px){
 .col-sm-1 {
