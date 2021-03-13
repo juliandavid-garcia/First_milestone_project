@@ -186,13 +186,20 @@ button {
 
 /* Style the button and place it in the middle of the container/image */
 
-.container .btn_left:hover {
+.container .btn_left:hover, .container .btn_left:active  {
  background-color:rgba(7, 7, 7, 0.6);
   font-size: 30px;
   text-decoration: none;
   opacity: 100%;
-} 
+  border-color:rgba(7, 7, 7, 0.6) ;
+  
 
+} 
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+     background-color:rgba(7, 7, 7, 0.6);
+    border-color: rgba(7, 7, 7, 0.6);
+}
 .btn_left {
     position: absolute;
   top: 52%;
@@ -224,6 +231,9 @@ ul {
     margin-bottom: 1rem;
     margin-left: 10%;
 }
+#item-coffee {
+  margin-left: 30%;  
+}
 .hand{
     text-align: center;
     margin-left: 15%;
@@ -245,6 +255,84 @@ ul {
     max-width: 15%;
 }
 }
+@media (max-width: 800px){
+.btn_left {
+    position: absolute;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+   background-color:rgba(7, 7, 7, 0.1);
+  color: rgba(255,255,255,0.1);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  width:98%;
+  height:98%;
+  opacity: 0%;
+}
+.title{
+    font-size: 70%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.technologies{
+margin-top: 0px;
+margin-left: 0px;
+    margin-bottom: 0px;
+}
+.container ul img {
+    width: 15%;
+    height: auto;
+    margin-top: 1%;
+    margin-left: 4%;
+}
+.hand i{
+    font-size: 80%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.hand {
+    margin-top: 0px;
+  margin-bottom: 0px;    
+}
+#websites span{
+    margin-top: 2px;
+    font-size: 30%;
+}
+#websites h2 {
+    text-align: center;
+    margin-top: 0px;
+}
+#item-coffee {
+    margin-left: 14%;
+}
+}
+
+@media screen and (width: 768px){
+
+.technologies{
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-bottom: 0px;
+}
+
+.hand {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 60px;
+}
+#item-coffee {
+    margin-left: 25%;
+}
+#websites span {
+    margin-top: 2px;
+    font-size: 60%;
+}
+}
+
 /*------Heroimage*/
 
 #hero-image{
