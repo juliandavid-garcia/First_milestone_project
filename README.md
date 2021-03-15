@@ -34,9 +34,11 @@ Developers goals:
 Attract  as many  recruiters and clients as possible.
 
 
-## 1. 2  [Wiframes](/wiframes-images/wiframes.jpg)
+## 1. 2  [Wireframes](/wiframes-images/wiframes.jpg) 
+These wireframes where designed  with [Figma](https://www.figma.com/)
+which is a very instuitive prototyping tool that focuses in the user interface and user experience design.
 
-## 2. Design
+## 1.3. Design
 
 This website was design thinking on a minimalist 
 concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but funtional, avoiding the over use of colors which could be stressful for the users. Hence, black white and gray are the prodominant colour.
@@ -44,41 +46,41 @@ The font :
 Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast they offer making the site look clean and ordered. 
 
 
-## 3. Features
+## 2. Features
 
-### 3.1. Existing features
+### 2.1. Existing features
 
  The User can find all the features of this page attached to the navigation bar. these features are accessible at every page of the website. Therefore all of them are interconected, letting the user move around the pages no matter his/her location. 
 
-### 3.1.1 Home:
+### 2.1.1 Home:
 
 This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar than links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  about me which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
 
-### 3.1.2 Navigation bar:  
+### 2.1.2 Navigation bar:  
 located in the top of the image containes the different sections of the website displayed in devices up to 576px
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
 
 
-### 3.1.3 Contact:
+### 2.1.3 Contact:
  This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
 
-### 3.1.4 Social media: 
+### 2.1.4 Social media: 
 Is located in the footer. Here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
 
-### 3.1.5 Resume: 
+### 2.1.5 Resume: 
 Is a downloadable file with all my personal information. Education, work experience, E-mail, telephone, and addres. 
 
-### 3.1.6 Skills:
+### 2.1.6 Skills:
  In this section the users can find all my technical capabilities as a developer illustrated in graphics. Thus, the recruiter can have an idea of how much i  know about the  technologies i have learn. 
 
-### 3.2 Features left to implement in the future
+### 2.2 Features left to implement in the future
  - In the future i would like to add some notification message once the message has been sent. 
  _ i would like to add a section where  people can share there experience after having worked with me. 
 
 
 
-## 4. Technologies Used
+## 3. Technologies Used
 This website was built using:
 - [HTML](https://html.com) **HTML**is used to create pages and make them functional.
 - [CSS](https://css3.com) **Css** is used to style the page
@@ -92,14 +94,14 @@ This website was built using:
 - [Responsivedesign](http://ami.responsivedesign.is/) **Responsive Design** to show how it looks in defferent devices. 
 
 
-## 5. Testing
+## 4. Testing
  
   - [Results here](testing.md)
  
 
   
 
-## 7. Deployment
+## 5. Deployment
 - Open github 
 - Open workspace/First_milestone_project and go to setting.
 ![setting](/Readme-images/settings.png)
@@ -109,9 +111,9 @@ This website was built using:
 ![pages](/Readme-images/branches.png)
 - Click save
 - The website is now deployed.
-- https://juliandavid-garcia.github.io/First_milestone_project/
+- [Deployed site address](https://juliandavid-garcia.github.io/First_milestone_project/)
 
-## 8. To clon the repository using GitHub Desktop
+## 6. To clon the repository using GitHub Desktop
 -On GitHub, navigate to the main page of the repository.
 
 ![pages](/Readme-images/branches.png)
@@ -124,25 +126,23 @@ This website was built using:
 
 
 
-## 9. Credits:
+## 7. Credits:
 The Drop down menu used for the devices up to 576px was taken from 
-- www.w3schools.com
--https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
+ [w3schools](www.w3schools.com)
 
 [dropdown menu](https://getbootstrap.com/docs/4.1/components/dropdowns/)
 
-The form was built following Bootstrap :
-- www.Bootstrap.com
+The form was built following [Bootstrap](www.Bootstrap.com):
 
 https://getbootstrap.com/docs/5.0/forms/form-control/
 - The icons where taken from Font awesome
 https://fontawesome.com/icons
 
-## 10. Media
+## 8. Media
 - The photos used in this site were obtained from ...
 https://unsplash.com/photos/-EvvsegVoUE
 
-## 11. Acknowledgements
+## 9. Acknowledgements
 
 - I received inspiration for this project from the previous exercises made during the course. Specially, from the Love-running and Whiskey lovers examples. 
 - thanks to Precious Ijege for his mentoring while developing this project. 
