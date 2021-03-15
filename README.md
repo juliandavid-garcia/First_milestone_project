@@ -8,12 +8,12 @@ Therefore, recruiters and potencial clients can have evidence of my skills as de
 
  
 ##  1. UX
-This website is specially addressed to contact  web developer recruiters and possible clients, in order to show them my skills through the different websites i have built so far. 
+This website is specially addressed to contact  web developer recruiters and possible clients. In order to show them my skills through the different websites i have built so far. 
  
 
 As i want this Portfolio to be reached by  many recruiters as possible, I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images,  as to make it more visible to search engines. 
 
-To let the recruiters interact with the examples displayed, all images are linked to git hub on a _blank page. (if possible)
+To let the recruiters interact with the examples displayed, all examples have a short description of the technology used as wel as links to git hub on a _blank page. (if possible)
 
 To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases they require one to add to their data base. 
 
@@ -127,27 +127,30 @@ This website was built using:
 
 
 ## 7. Credits:
-The Drop down menu used for the devices up to 576px was taken from 
- [w3schools](www.w3schools.com)
+The Drop down menu used for the devices up to 576px was taken from [w3schools :](www.w3schools.com)
 
-[dropdown menu](https://getbootstrap.com/docs/4.1/components/dropdowns/)
+- [Dropdown menu](https://getbootstrap.com/docs/4.1/components/dropdowns/)
 
 The form was built following [Bootstrap](www.Bootstrap.com):
 
-https://getbootstrap.com/docs/5.0/forms/form-control/
-- The icons where taken from Font awesome
-https://fontawesome.com/icons
+- [Form](https://getbootstrap.com/docs/5.0/forms/form-control/)
+
+The icons where taken from:
+- [Font awesome](https://fontawesome.com/icons)
+
+The hover effect used in the portfolio images was taken from [hover.css](https://ianlunn.github.io/Hover/)
 
 ## 8. Media
-- The photos used in this site were obtained from ...
-https://unsplash.com/photos/-EvvsegVoUE
+The photos used in this site were obtained from :
 
-## 9. Acknowledgements
+- [unsplash](https://unsplash.com/photos/-EvvsegVoUE)
+
+## 9. Acknowledgementsgi
 
 - I received inspiration for this project from the previous exercises made during the course. Specially, from the Love-running and Whiskey lovers examples. 
 - thanks to Precious Ijege for his mentoring while developing this project. 
 
 
 - ## Github
-  https://github.com/juliandavid-garcia
-
+You can find this project on 
+[My github](https://github.com/juliandavid-garcia)
