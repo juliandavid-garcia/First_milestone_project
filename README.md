@@ -2,7 +2,7 @@
 ![portfolio](/Readme-images/responsive.png)
 # Personal Portfolio
 
-This portfolio collects examples of the different projects i have developed during my formation as full stack software developer at the code institute. 
+This portfolio collects examples of the different projects i have developed during my formation as full stack software developer, at the code institute. 
 Therefore, recruiters and potencial clients can have evidence of my skills as developer and also as graphic designer, since some compositions made with photoshop were added. 
 
 
@@ -13,7 +13,7 @@ This website is specially addressed to contact  web developer recruiters and pos
 
 As i want this Portfolio to be reached by  many recruiters as possible, I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images,  as to make it more visible to search engines. 
 
-To let the recruiters interact with the examples displayed, all examples have a short description of the technology used as wel as links to git hub on a _blank page. (if possible)
+To let the recruiters interact with the examples displayed, all examples have a short description of the technology used as well as links to github on a _blank page.
 
 To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases they require one to add to their data base. 
 
@@ -21,17 +21,26 @@ To facilitate the interaction with recruiters, a form and a text area are includ
 
 ## 1.1 User Story: 
 ### As recruiter I want to:
-Have access to examples of projects that the developer has built in order to see what his capabilities as developer are.
 
- Interact with the examples given to see how the websites respond to my needs. 
+- Have access to examples of projects that the developer has built.
 
-Have direct contact with the developer either to ask about some specific features of his work as well as to offer him a job opportunity. 
+- See the developer's skills
 
-Reach the developer through his social media channels
+- Interact with the examples given but the developer 
 
+- Have direct contact with the developer  
+
+- Reach the developer through his social media channels
+
+- know about his educational background. 
+
+- To move easly and intutively
+
+- Find easy what i am looking for. 
 
 Developers goals: 
-Attract  as many  recruiters and clients as possible.
+
+- Attract  as many  recruiters and clients as possible.
 
 
 ## 1. 2  [Wireframes](/wiframes-images/wiframes.jpg) 
@@ -41,20 +50,25 @@ which is a very instuitive prototyping tool that focuses in the user interface a
 ## 1.3. Design
 
 This website was design thinking on a minimalist 
-concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but funtional, avoiding the over use of colors which could be stressful for the users. Hence, black white and gray are the prodominant colour.
-The font : 
+concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but funtional, avoiding the over use of colors which could be stressful  and overwhelming for the users. Hence, black white and gray are the prodominant colour.
+- The font : 
 Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast they offer making the site look clean and ordered. 
-
+- Colors :
+   - rgba (7, 7, 7, 0.1) 
+   - rgba (255,255,255,0.1)
+    - #fafafa (Font color)
+    - #1e1e1e (Drop menu)
+    - #5c5a5a (Navigation bar hover)
 
 ## 2. Features
 
 ### 2.1. Existing features
 
- The User can find all the features of this page attached to the navigation bar. these features are accessible at every page of the website. Therefore all of them are interconected, letting the user move around the pages no matter his/her location. 
+ The User can find all the features of this page attached to the navigation bar. these features are accessible at every page of the website. Therefore, all of them are interconected, letting the user move around the pages no matter his/her location. 
 
 ### 2.1.1 Home:
 
-This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar than links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  about me which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
+This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar that links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  **about me** which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
 
 ### 2.1.2 Navigation bar:  
 located in the top of the image containes the different sections of the website displayed in devices up to 576px
@@ -92,36 +106,41 @@ This website was built using:
 - [Figma](http://figma.com/) **Figma** used to creat a wireframe or mock-up 
 - [Photoshop](http://photoshop.com/) **Photoshop** used to edit the images used in the page. 
 - [Responsivedesign](http://ami.responsivedesign.is/) **Responsive Design** to show how it looks in defferent devices. 
+- [Hover.css](https://ianlunn.github.io/Hover/) **hover** used to add the hover effect to the example images. 
+
 
 
 ## 4. Testing
  
-  - [Results here](testing.md)
+  - [Results Here](testing.md)
  
 
   
 
 ## 5. Deployment
-- Open github 
-- Open workspace/First_milestone_project and go to setting.
+- **Open github**
+- **Open workspace/First_milestone_project and go to setting.**
+
 ![setting](/Readme-images/settings.png)
-- Open setting and scrolled down until Page
+- **Open setting and scrolled down until Page**
+
 ![pages](/Readme-images/pages.png)
-- Click on the None dropdowmenu and select the branch to publish : master
+- **Click on the None dropdowmenu and select the branch to publish : master**
+
 ![pages](/Readme-images/branches.png)
-- Click save
-- The website is now deployed.
+-  **Click save**
+- **The website is now deployed.**
 - [Deployed site address](https://juliandavid-garcia.github.io/First_milestone_project/)
 
 ## 6. To clon the repository using GitHub Desktop
--On GitHub, navigate to the main page of the repository.
+- On GitHub, navigate to the main page of the repository.
 
-![pages](/Readme-images/branches.png)
 
--Click on the green button "code"
+- Click on the button "Code"
 
 ![code](/Readme-images/code-button.png)
--Select "Open with GitHub Desktop" to clone and open the the respository with GitHub Desktop.
+- Select "Open with GitHub Desktop" to clone and open the the respository with GitHub Desktop.
+
 ![Desktop](/Readme-images/Desktop.png)
 
 
@@ -138,12 +157,13 @@ The form was built following [Bootstrap](www.Bootstrap.com):
 The icons where taken from:
 - [Font awesome](https://fontawesome.com/icons)
 
-The hover effect used in the portfolio images was taken from [hover.css](https://ianlunn.github.io/Hover/)
+The hover effect used in the portfolio images was taken from : 
+ - [Hover.css](https://ianlunn.github.io/Hover/)
 
 ## 8. Media
 The photos used in this site were obtained from :
 
-- [unsplash](https://unsplash.com/photos/-EvvsegVoUE)
+- [Unsplash](https://unsplash.com/photos/-EvvsegVoUE)
 
 ## 9. Acknowledgementsgi
 
@@ -153,4 +173,4 @@ The photos used in this site were obtained from :
 
 - ## Github
 You can find this project on 
-[My github](https://github.com/juliandavid-garcia)
+[My Github](https://github.com/juliandavid-garcia)
