@@ -122,7 +122,7 @@ This website was built using:
 - **Open workspace/First_milestone_project and go to setting.**
 
 ![setting](/Readme-images/settings.png)
-- **Open setting and scrolled down until Page**
+- **Open setting and scrolled down until Github Pages**
 
 ![pages](/Readme-images/pages.png)
 - **Click on the None dropdowmenu and select the branch to publish : master**
@@ -142,6 +142,7 @@ This website was built using:
 - Select "Open with GitHub Desktop" to clone and open the the respository with GitHub Desktop.
 
 ![Desktop](/Readme-images/Desktop.png)
+- You have the Repository cloned. 
 
 
 
@@ -165,7 +166,7 @@ The photos used in this site were obtained from :
 
 - [Unsplash](https://unsplash.com/photos/-EvvsegVoUE)
 
-## 9. Acknowledgementsgi
+## 9. Acknowledgements
 
 - I received inspiration for this project from the previous exercises made during the course. Specially, from the Love-running and Whiskey lovers examples. 
 - thanks to Precious Ijege for his mentoring while developing this project. 
