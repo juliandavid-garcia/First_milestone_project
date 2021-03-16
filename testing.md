@@ -55,13 +55,21 @@ As part of the testing process this website was tested using:
 
 This website is responsive. Consequently, it has been developed as to  be displayed in any device. 
 The main changes users can evidence when accessing the site in a different device are:
-In devices up to 576px buttons are used as the menu. Except for the portfolio page where there is a dropdown menu since this page is quite long. 
+In devices up to 576px two menus are desplayed. One in the upper site of the page. known as hamburger menu. the other one is located in the lower part of the site. just before the footer where users can also find another menu with bigger buttons. 
+
 In devices with more than 576px  all pages have a top fixed navigation bar. 
 
-In the portfolio-page pictures are displayed in two columns except in devices with less than 576px where just one column is displayed. 
+As illustrated in the image below, this website has been tested in all devices  available in Google chrome Developers tool. The results are the followings:
+
+
+![responsiveness](Readme-images/table-0.png)
+
+![responsiveness](Readme-images/table-1.png)
+
+As we can see the website responds effectively in all devices except for the Portfolio page in the Galaxy fold. In this device some images and texts are slightly resized and moved. but still noticiable. 
 
 ## Bugs ##
-I have some problems with the navigation bar. I  tried doing it myself but when i got to make the dropdown menu work, it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
+I had some problems with the navigation bar. I  tried doing it myself but when i got to make the dropdown menu work, it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
 
 - After having fixed the problem mention above i came across with another problem related to the drop menu, When validating in the W3C Markup Validator site. This time the validator showed an error related to the use of buttons inside the 'a' Element which made me change the whole menu since. according to the validator this
 
