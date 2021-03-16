@@ -50,7 +50,7 @@ As part of the testing process this website was tested using:
  - [windows Explorer](https://www.microsoft.com/en-us/edge).
 
 
- ## User Stories ##
+ ## Responsiveness ##
 
 
 This website is responsive. Consequently, it has been developed as to  be displayed in any device. 

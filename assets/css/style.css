@@ -440,6 +440,23 @@ ul {
     left:28%
 }
 }
+@media screen and (width: 280px){
+#designs .container h4 {
+    position: absolute;
+    left: 5%;
+    top: 70%;
+    font-size: 70%;
+}
+
+#designs .title {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 50%;
+    margin-top: 0px;
+    left: 20%;
+    top: 1px;
+}
+}
 /*------Heroimage*/
 
 #hero-image{
