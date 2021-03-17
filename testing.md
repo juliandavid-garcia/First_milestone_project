@@ -1,6 +1,6 @@
 # Testing #
 
-- All the features of this project have been manually tested  in order to make sure that  they respond effectively. Therefore, users can move from page to page since all of them are interconnected. 
+- All the features of this project have been manually tested  in order to make sure they respond effectively. Moreover, users can move from page to page since all of them are interconnected. 
 
 
 - In the case of the ** Resume feature **. The document is open in a different window, giving the user the chance to download the document in a pdf format. 
@@ -78,25 +78,43 @@ I had some problems with the navigation bar. I  tried doing it myself but when i
 - When trying to add a description to the images from the gallery i could not add a layer to the element "img" therefore i decided to omit this feature. 
 
 -
+## As recruiter I want to :
+- **Have access to examples of projects that the developer has built.**
+  - When the recruiter or client clicks on **Portfolio** is brought to a gallery of images with examples of the works the developer has built or made part of.
 
- ## As recruiter I want to: ##
-Have access to examples of projects that the developer has built in order to see what his capabilities as developer are.
-   - When the recruiter or client clicks on **Portfolio** is brought to a gallery of images with examples of the works the developer has built or made part of. 
-   
- Interact with the examples given to see how the websites respond to my needs. 
- - All the images from the gallery are linked to the websites so as to interact direclty with them. 
+- **See the developer's skills**
+  - In the **skills** page The user can find the developers skills illustrated in two graphic that display the level of performance and knowledge regarding the different technologies the developer works with. 
 
- - In the Skills page the user can also find  a data graphic in percentages that helps the user to have an idea of the developer's abilities regarding the different technologies he knows. 
+- **Interact with the examples given but the developer**
+  - In the **portfolio** page  the images from the gallery are linked to the websites so as to let developers to interact direclty with the examples. 
 
 
+- **Have direct contact with the developer**
+  - In the **contact** page there is a text-box where users can sent a direct message to the developer. Also, the telephone number and email are attached to this page as to facilitate the direct interaction between the recruiter and the developer. 
 
-Have direct **contact** with the developer either to ask about some specific features of his work or to offer him a job opportunity. 
--  In the **contact** page there is a text-box where users can sent a direct message to the developer. Also, the telephone number and email are attached to this page as to facilitate the direct interaction between the recruiter and the developer. 
 
-Reach the developer through his social media channels.
-- In the footer the user can find the all the links to the social media of the web developer 
-   - [Faceook](https://www.facebook.com/)
-   - [Instagram](https://www.instagram.com/)
-   - [Twitter](https://www.twitter.com/)
-   - [Github](https://www.github.com/)
-   - [Linkedin](https://www.linkedin.com/)
+- **Reach the developer through his social media channels**
+  
+  - In the footer the user can find all the links to the social media of the web developer 
+    - [Faceook](https://www.facebook.com/)
+    - [Instagram](https://www.instagram.com/)
+    - [Twitter](https://www.twitter.com/)
+    - [Github](https://www.github.com/)
+    - [Linkedin](https://www.linkedin.com/)
+ 
+
+- **Know about his educational background.**
+  - when accessing the resume page the user is redirected to a pdf file with his personal information: Educational background and working experience. 
+
+- **To move easly and intutively through the wbsite.** 
+  - In order to make the page accessible and intuitive, the page counts with a navigation bar fixed at the top of the website for devices with a minimun width up to 768px. Devices with a maximun width up to 768px display a dropdown menu fixed in the top of the screen, as well as another navigation menu placed just above the footer. 
+
+
+- **Find easy what i am looking for.**
+  - The page is design to let people reach any feature of the website with less than three clicks starting from the home page. 
+
+
+
+
+ 
+
