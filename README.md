@@ -4,6 +4,9 @@
 
 This portfolio collects examples of the different projects i have developed during my formation as full stack software developer, at the code institute. 
 Therefore, recruiters and potencial clients can have evidence of my skills as developer and also as graphic designer, since some compositions made with photoshop were added. 
+- [Visite Site ](https://juliandavid-garcia.github.io/First_milestone_project/)
+
+
 
 
  
@@ -15,7 +18,7 @@ As i want this Portfolio to be reached by  many recruiters as possible, I paid s
 
 To let the recruiters interact with the examples displayed, all examples have a short description of the technology used as well as links to github on a _blank page.
 
-To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases they require one to add to their data base. 
+To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases, recruiters require one cv to add to their data base. 
 
 
 
@@ -59,6 +62,10 @@ Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast t
     - #fafafa (Font color)
     - #1e1e1e (Drop menu)
     - #5c5a5a (Navigation bar hover)
+    
+    Note: 
+    - Even thoug, theres seem to a wider range of color in the website it is due to the different opacity scales of some of these colors. 
+
 
 ## 2. Features
 
@@ -71,13 +78,13 @@ Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast t
 This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar that links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  **about me** which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
 
 ### 2.1.2 Navigation bar:  
-located in the top of the image containes the different sections of the website displayed in devices up to 576px
+Located in the top of the image containes the different sections of the website displayed in devices up to 576px
  Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
         
 
 
 ### 2.1.3 Contact:
- This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. telephone number, E-mail, and a text-box for user to write directly to the developer.
+ This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. Telephone number, E-mail, and a text-box for user to write directly to the developer.
 
 ### 2.1.4 Social media: 
 Is located in the footer. Here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
@@ -124,7 +131,6 @@ This website was built using:
 ![setting](/Readme-images/settings.png)
 - **Open setting and scrolled down until Github Pages**
 
-![pages](/Readme-images/pages.png)
 - **Click on the None dropdowmenu and select the branch to publish : master**
 
 ![pages](/Readme-images/branches.png)
@@ -169,7 +175,7 @@ The photos used in this site were obtained from :
 ## 9. Acknowledgements
 
 - I received inspiration for this project from the previous exercises made during the course. Specially, from the Love-running and Whiskey lovers examples. 
-- thanks to Precious Ijege for his mentoring while developing this project. 
+- Thanks to Precious Ijege for his mentoring while developing this project. His advices, pasciences and support were of high relevance to carried out this project. 
 
 
 - ## Github

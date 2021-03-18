@@ -42,12 +42,16 @@ As part of the testing process this website was tested using:
 
 
 
- This web has been tested in the following browsers:
+ This web has been tested in desktop devices using the following browser:
 
  - [Mozila fire fox](https://www.mozilla.org/en-US/firefox/new/)
  - [Opera](https://www.opera.com/)
  - [Chrome](https://www.google.com/chrome/)
  - [windows Explorer](https://www.microsoft.com/en-us/edge).
+
+ In all these browsers the apparience, images and responsiveness worked perfectly. 
+
+ 
 
 
  ## Responsiveness ##
@@ -69,16 +73,22 @@ As illustrated in the image below, this website has been tested in all devices  
 As we can see the website responds effectively in all devices except for the Portfolio page in the Galaxy fold. In this device some images and texts are slightly resized and moved. but still noticiable. 
 
 ## Bugs ##
-I had some problems with the navigation bar. I  tried doing it myself but when i got to make the dropdown menu work, it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
+### Bug 1. ###
+- I had some problems with the navigation bar. I  tried doing it myself but when i got to make the dropdown menu work, it did not work. finally made the menudrop work. It needed to  add the query link from boostrap to the header.
 
-- After having fixed the problem mention above i came across with another problem related to the drop menu, When validating in the W3C Markup Validator site. This time the validator showed an error related to the use of buttons inside the 'a' Element which made me change the whole menu since. according to the validator this
+### Bug 2. ###
+- After having fixed the problem mention above i came across with another problem related to the drop menu, When validating in the W3C Markup Validator site. This time the validator showed an error related to the use of buttons inside the 'a' Element which made me change the whole menu since. 
 
+### Bug 3. ###
 - In order to pass the validator i also had to replace some "sections" for "divs" since the validator indicated that those sections were missing a header. 
 
-- When trying to add a description to the images from the gallery i could not add a layer to the element "img" therefore i decided to omit this feature. 
+### Bug 4. ###
+- When trying to add a description to the images from the gallery i could not add a layer to the element "img". Consequently, insted of using a div I added an modified its width and height as to fit its size to the image i wanted to add the description. it worked perfectly. 
 
--
-## As recruiter I want to :
+
+
+## Testing users stories ##
+### As recruiter I want to : ###
 - **Have access to examples of projects that the developer has built.**
   - When the recruiter or client clicks on **Portfolio** is brought to a gallery of images with examples of the works the developer has built or made part of.
 
@@ -111,7 +121,7 @@ I had some problems with the navigation bar. I  tried doing it myself but when i
 
 
 - **Find easy what i am looking for.**
-  - The page is design to let people reach any feature of the website with less than three clicks starting from the home page. 
+  - The page is design to let people reach any feature of the website within less than three clicks starting from the home page. 
 
 
 
