@@ -145,9 +145,11 @@ This website was built using:
 - Click on the button "Code"
 
 ![code](/Readme-images/code-button.png)
-- Select "Open with GitHub Desktop" to clone and open the the respository with GitHub Desktop.
+- Select "Open with GitHub Desktop" to clone and open the respository with GitHub Desktop.
 
 ![Desktop](/Readme-images/Desktop.png)
+
+- Go to Github main page and you will find a new depository. thas your cloned despository. 
 - You have the Repository cloned. 
 
 
