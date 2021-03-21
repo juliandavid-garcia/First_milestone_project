@@ -2,8 +2,8 @@
 ![portfolio](/Readme-images/responsive.png)
 # Personal Portfolio
 
-This portfolio collects examples of the different projects i have developed during my formation as full stack software developer, at the code institute. 
-Therefore, recruiters and potencial clients can have evidence of my skills as developer and also as graphic designer, since some compositions made with photoshop were added. 
+This portfolio collects examples of the different projects I have developed during my formation as full stack software developer, at the code institute. 
+Therefore, recruiters and potential clients can have evidence of my skills as a developer and also as a graphic designer, since some compositions made with photoshop were added. 
 - [Visite Site ](https://juliandavid-garcia.github.io/First_milestone_project/)
 
 
@@ -11,19 +11,20 @@ Therefore, recruiters and potencial clients can have evidence of my skills as de
 
  
 ##  1. UX
-This website is specially addressed to contact  web developer recruiters and possible clients. In order to show them my skills through the different websites i have built so far. 
+This website is specially addressed to contact  web developer recruiters and possible clients.
+In order to show them my skills through the different websites I have built up until now. 
  
 
-As i want this Portfolio to be reached by  many recruiters as possible, I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images,  as to make it more visible to search engines. 
+As I want this Portfolio to be reached by  many recruiters as possible, I paid special attention to titling  and  the descriptive tagging of the “alt attribute” in images,  as to make it more visible to search engines. 
 
-To let the recruiters interact with the examples displayed, all examples have a short description of the technology used as well as links to github on a _blank page.
+To let the recruiters interact with the examples displayed, all examples have a short description of the technology used as well as links to Github on a _blank page.
 
 To facilitate the interaction with recruiters, a form and a text area are included; as well as the chance to download the Cv, in cases, recruiters require one cv to add to their data base. 
 
 
 
 ## 1.1 User Story: 
-### As recruiter I want to:
+### As a recruiter I want to:
 
 - Have access to examples of projects that the developer has built.
 
@@ -52,52 +53,55 @@ which is a very instuitive prototyping tool that focuses in the user interface a
 
 ## 1.3. Design
 
-This website was design thinking on a minimalist 
-concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but funtional, avoiding the over use of colors which could be stressful  and overwhelming for the users. Hence, black white and gray are the prodominant colour.
-- The font : 
-Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast they offer making the site look clean and ordered. 
-- Colors :
-   - rgba (7, 7, 7, 0.1) 
-   - rgba (255,255,255,0.1)
+This website was designed thinking on a minimalist 
+A concept which transmits serenity and tranquillity. Therefore, all pages are diaphanous but functional, avoiding the overuse of colors which could be stressful  and overwhelming for the users.
+Hence, black, white and gray are the predominant colors.
+- The font: 
+Regarding the font "Oswald" and "Roboto" were used due to the perfect contrast, they offer making the site look clean and ordered. 
+- Colors:
+   - Rgba (7, 7, 7, 0.1) 
+   - Rgba (255,255,255,0.1)
     - #fafafa (Font color)
     - #1e1e1e (Drop menu)
     - #5c5a5a (Navigation bar hover)
     
-    Note: 
-    - Even thoug, theres seem to a wider range of color in the website it is due to the different opacity scales of some of these colors. 
+       Note: 
+    - Even though, there seem to be a wider range of color on the website it is due to the different opacity scales of some of these colors. 
 
 
 ## 2. Features
 
 ### 2.1. Existing features
 
- The User can find all the features of this page attached to the navigation bar. these features are accessible at every page of the website. Therefore, all of them are interconected, letting the user move around the pages no matter his/her location. 
+ The User can find all the features of this page attached to the navigation bar. These features are accessible on every page of the website. Therefore, all of them are interconnected, letting the user move around the pages no matter his/her location. 
 
 ### 2.1.1 Home:
 
-This feature is the main page of the site. Here users will come across with a header with the developer's name and a navigation bar that links to all the features available in the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  **about me** which consist on two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
+This feature is the main page of the site.
+Here users will come across with a header with the developer's name and a navigation bar that links to all the features available on the site.  It also counts with a hero image which introduces the developer to the visitors. Furthermore, in this page there is a section called  **about me** which consist of two paragraphs located below the hero image here the user is introduced to what they are going to find in the web side. 
 
 ### 2.1.2 Navigation bar:  
-Located in the top of the image containes the different sections of the website displayed in devices up to 576px
- Navigation buttons:  This is the naviations option displayed in devices smaller than 576px.
+Located in the top of the image contains the different sections of the website displayed on devices up to 576 PX
+ Navigation buttons:  This is the navigation option displayed on devices smaller than 576 PX.
         
 
 
 ### 2.1.3 Contact:
- This feature can be reached throught the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. Telephone number, E-mail, and a text-box for user to write directly to the developer.
+ This feature can be reached through the navigation bar/buttons. Here the user  has the information and tools required to reach the developer. Telephone number, E-mail, and a text box for the user to write directly to the developer.
 
 ### 2.1.4 Social media: 
-Is located in the footer. Here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
+Is located in the footer.
+Here all the icons are  linked  to its corresponding website and can be accessible from any of the different pages of the site.
 
 ### 2.1.5 Resume: 
-Is a downloadable file with all my personal information. Education, work experience, E-mail, telephone, and addres. 
+Is a downloadable file with all my personal information. Education, work experience, E-mail, telephone, and address. 
 
 ### 2.1.6 Skills:
- In this section the users can find all my technical capabilities as a developer illustrated in graphics. Thus, the recruiter can have an idea of how much i  know about the  technologies i have learn. 
+ In this section the users can find all my technical capabilities as a developer illustrated with graphics. Thus, the recruiter can have an idea of how much I  know about the  technologies I have learned. 
 
 ### 2.2 Features left to implement in the future
- - In the future i would like to add some notification message once the message has been sent. 
- _ i would like to add a section where  people can share there experience after having worked with me. 
+ - In the future, I would like to add some notification message once the message has been sent. 
+ _ I would like to add a section where  people can share their experience after having worked with me.  
 
 
 
@@ -177,7 +181,7 @@ The photos used in this site were obtained from :
 ## 9. Acknowledgements
 
 - I received inspiration for this project from the previous exercises made during the course. Specially, from the Love-running and Whiskey lovers examples. 
-- Thanks to Precious Ijege for his mentoring while developing this project. His advices, pasciences and support were of high relevance to carried out this project. 
+- Thanks to Precious Ijege for his mentoring while developing this project. His advices, patience and support were of high relevance to carry out this project. 
 
 
 - ## Github
