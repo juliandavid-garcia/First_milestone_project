@@ -47,7 +47,9 @@ Developers goals:
 - Attract  as many  recruiters and clients as possible.
 
 
-## 1. 2  [Wireframes](/wiframes-images/wiframes.jpg) 
+## 1. 2  [Wireframes ](/wiframes-images/wiframes.jpg)
+[See Wireframes ](/wiframes-images/wiframes.jpg)
+ 
 These wireframes where designed  with [Figma](https://www.figma.com/)
 which is a very instuitive prototyping tool that focuses in the user interface and user experience design.
 
